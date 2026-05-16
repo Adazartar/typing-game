@@ -12,6 +12,8 @@ web_app/dist
 web_app/dist-ssr
 *.local
 
+song_extractor/songs
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

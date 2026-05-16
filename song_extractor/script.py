@@ -13,7 +13,7 @@ YOUTUBE_URL = "https://www.youtube.com/watch?v=Jqt2yvDEgFE"
 # -----------------------------
 
 video_id = YOUTUBE_URL.split("v=")[-1].split("&")[0]
-output_dir = Path(__file__).parent / video_id
+output_dir = Path(__file__).parent / "songs" / video_id
 output_dir.mkdir(exist_ok=True)
 
 audio_path = output_dir / "audio.m4a"
@@ -30,23 +30,25 @@ download_cmd = [
     YOUTUBE_URL,
 ]
 
-subprocess.run(download_cmd, check=True)
-
-print(f"Downloaded audio to: {audio_path}")
+if not audio_path.exists():
+    subprocess.run(download_cmd, check=True)
+    print(f"Downloaded audio to: {audio_path}")
+else:
+    print(f"Audio already exists, skipping download: {audio_path}")
 
 
 # -----------------------------
 # 2. Load WhisperX
 # -----------------------------
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
+device = "cpu"
 
 batch_size = 16
 
 model = whisperx.load_model(
     "large-v3",
     device,
-    compute_type="float16" if device == "cuda" else "int8",
+    compute_type="int8",
 )
 
 # -----------------------------

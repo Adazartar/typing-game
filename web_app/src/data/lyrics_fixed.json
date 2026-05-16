@@ -1,0 +1,1266 @@
+{
+  "title": "Generated Song",
+  "spotifyTrackId": "",
+  "words": [
+    {
+      "word": "hear",
+      "offset": 712,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 972,
+      "duration": 1000
+    },
+    {
+      "word": "clock",
+      "offset": 1152,
+      "duration": 1000
+    },
+    {
+      "word": "ticking",
+      "offset": 1632,
+      "duration": 1000
+    },
+    {
+      "word": "on",
+      "offset": 2153,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 2313,
+      "duration": 1000
+    },
+    {
+      "word": "wall",
+      "offset": 2493,
+      "duration": 1000
+    },
+    {
+      "word": "losing",
+      "offset": 4214,
+      "duration": 1000
+    },
+    {
+      "word": "sleep,",
+      "offset": 4694,
+      "duration": 1000
+    },
+    {
+      "word": "losing",
+      "offset": 5154,
+      "duration": 1000
+    },
+    {
+      "word": "track",
+      "offset": 5554,
+      "duration": 1000
+    },
+    {
+      "word": "of",
+      "offset": 6095,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 6275,
+      "duration": 1000
+    },
+    {
+      "word": "tears",
+      "offset": 6455,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 6915,
+      "duration": 1000
+    },
+    {
+      "word": "cry",
+      "offset": 7135,
+      "duration": 1000
+    },
+    {
+      "word": "every",
+      "offset": 7815,
+      "duration": 1000
+    },
+    {
+      "word": "drop",
+      "offset": 8116,
+      "duration": 1000
+    },
+    {
+      "word": "is",
+      "offset": 8676,
+      "duration": 1000
+    },
+    {
+      "word": "a",
+      "offset": 8876,
+      "duration": 1000
+    },
+    {
+      "word": "waterfall",
+      "offset": 9016,
+      "duration": 1000
+    },
+    {
+      "word": "every",
+      "offset": 11277,
+      "duration": 1000
+    },
+    {
+      "word": "breath",
+      "offset": 11617,
+      "duration": 1000
+    },
+    {
+      "word": "is",
+      "offset": 12158,
+      "duration": 1000
+    },
+    {
+      "word": "a",
+      "offset": 12358,
+      "duration": 1000
+    },
+    {
+      "word": "break",
+      "offset": 12498,
+      "duration": 1000
+    },
+    {
+      "word": "in",
+      "offset": 12978,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 13118,
+      "duration": 1000
+    },
+    {
+      "word": "real",
+      "offset": 13338,
+      "duration": 1000
+    },
+    {
+      "word": "tide",
+      "offset": 13758,
+      "duration": 1000
+    },
+    {
+      "word": "oh,",
+      "offset": 14759,
+      "duration": 1000
+    },
+    {
+      "word": "how",
+      "offset": 15059,
+      "duration": 1000
+    },
+    {
+      "word": "long",
+      "offset": 15399,
+      "duration": 1000
+    },
+    {
+      "word": "has",
+      "offset": 16420,
+      "duration": 1000
+    },
+    {
+      "word": "it",
+      "offset": 16720,
+      "duration": 1000
+    },
+    {
+      "word": "been?",
+      "offset": 16860,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 17520,
+      "duration": 1000
+    },
+    {
+      "word": "don't",
+      "offset": 18261,
+      "duration": 1000
+    },
+    {
+      "word": "know",
+      "offset": 18781,
+      "duration": 1000
+    },
+    {
+      "word": "but",
+      "offset": 19321,
+      "duration": 1000
+    },
+    {
+      "word": "it",
+      "offset": 19701,
+      "duration": 1000
+    },
+    {
+      "word": "feels",
+      "offset": 19861,
+      "duration": 1000
+    },
+    {
+      "word": "like",
+      "offset": 20342,
+      "duration": 1000
+    },
+    {
+      "word": "an",
+      "offset": 21042,
+      "duration": 1000
+    },
+    {
+      "word": "eternity",
+      "offset": 21402,
+      "duration": 1000
+    },
+    {
+      "word": "since",
+      "offset": 23343,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 24023,
+      "duration": 1000
+    },
+    {
+      "word": "had",
+      "offset": 24143,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 24723,
+      "duration": 1000
+    },
+    {
+      "word": "here",
+      "offset": 25104,
+      "duration": 1000
+    },
+    {
+      "word": "with",
+      "offset": 25784,
+      "duration": 1000
+    },
+    {
+      "word": "me",
+      "offset": 26024,
+      "duration": 1000
+    },
+    {
+      "word": "since",
+      "offset": 26824,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 27424,
+      "duration": 1000
+    },
+    {
+      "word": "had",
+      "offset": 27845,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 28145,
+      "duration": 1000
+    },
+    {
+      "word": "learn",
+      "offset": 28585,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 29245,
+      "duration": 1000
+    },
+    {
+      "word": "be",
+      "offset": 29505,
+      "duration": 1000
+    },
+    {
+      "word": "someone",
+      "offset": 30265,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 31486,
+      "duration": 1000
+    },
+    {
+      "word": "don't",
+      "offset": 31626,
+      "duration": 1000
+    },
+    {
+      "word": "know",
+      "offset": 32046,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 32665,
+      "duration": 1000
+    },
+    {
+      "word": "be",
+      "offset": 33806,
+      "duration": 1000
+    },
+    {
+      "word": "with",
+      "offset": 34287,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 34707,
+      "duration": 1000
+    },
+    {
+      "word": "in",
+      "offset": 35267,
+      "duration": 1000
+    },
+    {
+      "word": "paradise",
+      "offset": 35547,
+      "duration": 1000
+    },
+    {
+      "word": "what",
+      "offset": 37288,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 38048,
+      "duration": 1000
+    },
+    {
+      "word": "wouldn't",
+      "offset": 38228,
+      "duration": 1000
+    },
+    {
+      "word": "sacrifice",
+      "offset": 38968,
+      "duration": 1000
+    },
+    {
+      "word": "why'd",
+      "offset": 40489,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 41209,
+      "duration": 1000
+    },
+    {
+      "word": "have",
+      "offset": 41669,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 42069,
+      "duration": 1000
+    },
+    {
+      "word": "chase",
+      "offset": 42489,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 43149,
+      "duration": 1000
+    },
+    {
+      "word": "light?",
+      "offset": 43410,
+      "duration": 1000
+    },
+    {
+      "word": "somewhere",
+      "offset": 44190,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 45350,
+      "duration": 1000
+    },
+    {
+      "word": "can't",
+      "offset": 45570,
+      "duration": 1000
+    },
+    {
+      "word": "go",
+      "offset": 45990,
+      "duration": 1000
+    },
+    {
+      "word": "as",
+      "offset": 47351,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 47571,
+      "duration": 1000
+    },
+    {
+      "word": "walk",
+      "offset": 47731,
+      "duration": 1000
+    },
+    {
+      "word": "this",
+      "offset": 48171,
+      "duration": 1000
+    },
+    {
+      "word": "world",
+      "offset": 48611,
+      "duration": 1000
+    },
+    {
+      "word": "alone",
+      "offset": 49031,
+      "duration": 1000
+    },
+    {
+      "word": "as",
+      "offset": 54340,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 54580,
+      "duration": 1000
+    },
+    {
+      "word": "walk",
+      "offset": 54720,
+      "duration": 1000
+    },
+    {
+      "word": "this",
+      "offset": 55161,
+      "duration": 1000
+    },
+    {
+      "word": "world",
+      "offset": 55581,
+      "duration": 1000
+    },
+    {
+      "word": "alone",
+      "offset": 60064,
+      "duration": 1000
+    },
+    {
+      "word": "another",
+      "offset": 63707,
+      "duration": 1000
+    },
+    {
+      "word": "glimpse",
+      "offset": 64206,
+      "duration": 1000
+    },
+    {
+      "word": "of",
+      "offset": 64768,
+      "duration": 1000
+    },
+    {
+      "word": "what",
+      "offset": 64908,
+      "duration": 1000
+    },
+    {
+      "word": "could",
+      "offset": 65108,
+      "duration": 1000
+    },
+    {
+      "word": "have",
+      "offset": 65388,
+      "duration": 1000
+    },
+    {
+      "word": "been",
+      "offset": 65548,
+      "duration": 1000
+    },
+    {
+      "word": "another",
+      "offset": 67150,
+      "duration": 1000
+    },
+    {
+      "word": "dream",
+      "offset": 67690,
+      "duration": 1000
+    },
+    {
+      "word": "of",
+      "offset": 68290,
+      "duration": 1000
+    },
+    {
+      "word": "a",
+      "offset": 68471,
+      "duration": 1000
+    },
+    {
+      "word": "way",
+      "offset": 68651,
+      "duration": 1000
+    },
+    {
+      "word": "that",
+      "offset": 69051,
+      "duration": 1000
+    },
+    {
+      "word": "it",
+      "offset": 69351,
+      "duration": 1000
+    },
+    {
+      "word": "never",
+      "offset": 69491,
+      "duration": 1000
+    },
+    {
+      "word": "was",
+      "offset": 69912,
+      "duration": 1000
+    },
+    {
+      "word": "falling",
+      "offset": 70712,
+      "duration": 1000
+    },
+    {
+      "word": "back",
+      "offset": 71213,
+      "duration": 1000
+    },
+    {
+      "word": "in",
+      "offset": 71733,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 71873,
+      "duration": 1000
+    },
+    {
+      "word": "wilderness",
+      "offset": 72093,
+      "duration": 1000
+    },
+    {
+      "word": "waking",
+      "offset": 74235,
+      "duration": 1000
+    },
+    {
+      "word": "up",
+      "offset": 74895,
+      "duration": 1000
+    },
+    {
+      "word": "rubbing",
+      "offset": 75135,
+      "duration": 1000
+    },
+    {
+      "word": "salt",
+      "offset": 75516,
+      "duration": 1000
+    },
+    {
+      "word": "in",
+      "offset": 75896,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 76016,
+      "duration": 1000
+    },
+    {
+      "word": "cut",
+      "offset": 76196,
+      "duration": 1000
+    },
+    {
+      "word": "oh,",
+      "offset": 77876,
+      "duration": 1000
+    },
+    {
+      "word": "how",
+      "offset": 78136,
+      "duration": 1000
+    },
+    {
+      "word": "long",
+      "offset": 78517,
+      "duration": 1000
+    },
+    {
+      "word": "has",
+      "offset": 79517,
+      "duration": 1000
+    },
+    {
+      "word": "it",
+      "offset": 79797,
+      "duration": 1000
+    },
+    {
+      "word": "been?",
+      "offset": 79897,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 80638,
+      "duration": 1000
+    },
+    {
+      "word": "don't",
+      "offset": 81198,
+      "duration": 1000
+    },
+    {
+      "word": "know",
+      "offset": 81639,
+      "duration": 1000
+    },
+    {
+      "word": "but",
+      "offset": 82079,
+      "duration": 1000
+    },
+    {
+      "word": "it",
+      "offset": 82359,
+      "duration": 1000
+    },
+    {
+      "word": "feels",
+      "offset": 82499,
+      "duration": 1000
+    },
+    {
+      "word": "like",
+      "offset": 82920,
+      "duration": 1000
+    },
+    {
+      "word": "an",
+      "offset": 83760,
+      "duration": 1000
+    },
+    {
+      "word": "eternity",
+      "offset": 84020,
+      "duration": 1000
+    },
+    {
+      "word": "since",
+      "offset": 85962,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 86802,
+      "duration": 1000
+    },
+    {
+      "word": "had",
+      "offset": 87022,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 87342,
+      "duration": 1000
+    },
+    {
+      "word": "here",
+      "offset": 87743,
+      "duration": 1000
+    },
+    {
+      "word": "with",
+      "offset": 88383,
+      "duration": 1000
+    },
+    {
+      "word": "me",
+      "offset": 88643,
+      "duration": 1000
+    },
+    {
+      "word": "since",
+      "offset": 89424,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 90284,
+      "duration": 1000
+    },
+    {
+      "word": "had",
+      "offset": 90445,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 90765,
+      "duration": 1000
+    },
+    {
+      "word": "learn",
+      "offset": 91225,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 91886,
+      "duration": 1000
+    },
+    {
+      "word": "be",
+      "offset": 92146,
+      "duration": 1000
+    },
+    {
+      "word": "someone",
+      "offset": 92886,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 93767,
+      "duration": 1000
+    },
+    {
+      "word": "don't",
+      "offset": 94247,
+      "duration": 1000
+    },
+    {
+      "word": "know",
+      "offset": 94667,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 100638,
+      "duration": 1000
+    },
+    {
+      "word": "wouldn't",
+      "offset": 100758,
+      "duration": 1000
+    },
+    {
+      "word": "sacrifice",
+      "offset": 101599,
+      "duration": 1000
+    },
+    {
+      "word": "why'd",
+      "offset": 103321,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 103822,
+      "duration": 1000
+    },
+    {
+      "word": "have",
+      "offset": 104142,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 104683,
+      "duration": 1000
+    },
+    {
+      "word": "chase",
+      "offset": 105104,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 105765,
+      "duration": 1000
+    },
+    {
+      "word": "light",
+      "offset": 106025,
+      "duration": 1000
+    },
+    {
+      "word": "somewhere",
+      "offset": 106806,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 108008,
+      "duration": 1000
+    },
+    {
+      "word": "can't",
+      "offset": 108168,
+      "duration": 1000
+    },
+    {
+      "word": "go",
+      "offset": 108608,
+      "duration": 1000
+    },
+    {
+      "word": "as",
+      "offset": 109950,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 110190,
+      "duration": 1000
+    },
+    {
+      "word": "walk",
+      "offset": 110331,
+      "duration": 1000
+    },
+    {
+      "word": "this",
+      "offset": 110771,
+      "duration": 1000
+    },
+    {
+      "word": "world",
+      "offset": 111212,
+      "duration": 1000
+    },
+    {
+      "word": "it's",
+      "offset": 127099,
+      "duration": 1000
+    },
+    {
+      "word": "a",
+      "offset": 127339,
+      "duration": 1000
+    },
+    {
+      "word": "starless",
+      "offset": 127620,
+      "duration": 1000
+    },
+    {
+      "word": "sky,",
+      "offset": 128500,
+      "duration": 1000
+    },
+    {
+      "word": "it's",
+      "offset": 129080,
+      "duration": 1000
+    },
+    {
+      "word": "a",
+      "offset": 129360,
+      "duration": 1000
+    },
+    {
+      "word": "hell",
+      "offset": 129501,
+      "duration": 1000
+    },
+    {
+      "word": "that",
+      "offset": 129942,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 130642,
+      "duration": 1000
+    },
+    {
+      "word": "call",
+      "offset": 130801,
+      "duration": 1000
+    },
+    {
+      "word": "home",
+      "offset": 131263,
+      "duration": 1000
+    },
+    {
+      "word": "it's",
+      "offset": 132544,
+      "duration": 1000
+    },
+    {
+      "word": "a",
+      "offset": 132944,
+      "duration": 1000
+    },
+    {
+      "word": "long",
+      "offset": 132984,
+      "duration": 1000
+    },
+    {
+      "word": "goodbye",
+      "offset": 133425,
+      "duration": 1000
+    },
+    {
+      "word": "on",
+      "offset": 134345,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 134485,
+      "duration": 1000
+    },
+    {
+      "word": "other",
+      "offset": 134966,
+      "duration": 1000
+    },
+    {
+      "word": "side",
+      "offset": 135566,
+      "duration": 1000
+    },
+    {
+      "word": "of",
+      "offset": 136087,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 136227,
+      "duration": 1000
+    },
+    {
+      "word": "only",
+      "offset": 136687,
+      "duration": 1000
+    },
+    {
+      "word": "life",
+      "offset": 137308,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 137968,
+      "duration": 1000
+    },
+    {
+      "word": "know",
+      "offset": 138168,
+      "duration": 1000
+    },
+    {
+      "word": "and",
+      "offset": 141611,
+      "duration": 1000
+    },
+    {
+      "word": "it",
+      "offset": 141892,
+      "duration": 1000
+    },
+    {
+      "word": "feels",
+      "offset": 142032,
+      "duration": 1000
+    },
+    {
+      "word": "like",
+      "offset": 142772,
+      "duration": 1000
+    },
+    {
+      "word": "an",
+      "offset": 143273,
+      "duration": 1000
+    },
+    {
+      "word": "eternity",
+      "offset": 143713,
+      "duration": 1000
+    },
+    {
+      "word": "since",
+      "offset": 145935,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 146575,
+      "duration": 1000
+    },
+    {
+      "word": "had",
+      "offset": 146756,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 147276,
+      "duration": 1000
+    },
+    {
+      "word": "here",
+      "offset": 147676,
+      "duration": 1000
+    },
+    {
+      "word": "with",
+      "offset": 148337,
+      "duration": 1000
+    },
+    {
+      "word": "me",
+      "offset": 148617,
+      "duration": 1000
+    },
+    {
+      "word": "since",
+      "offset": 149398,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 149718,
+      "duration": 1000
+    },
+    {
+      "word": "had",
+      "offset": 149818,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 150198,
+      "duration": 1000
+    },
+    {
+      "word": "learn",
+      "offset": 150399,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 150679,
+      "duration": 1000
+    },
+    {
+      "word": "be",
+      "offset": 152000,
+      "duration": 1000
+    },
+    {
+      "word": "someone",
+      "offset": 152861,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 153801,
+      "duration": 1000
+    },
+    {
+      "word": "don't",
+      "offset": 154202,
+      "duration": 1000
+    },
+    {
+      "word": "know",
+      "offset": 154622,
+      "duration": 1000
+    },
+    {
+      "word": "what",
+      "offset": 159819,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 160499,
+      "duration": 1000
+    },
+    {
+      "word": "wouldn't",
+      "offset": 160719,
+      "duration": 1000
+    },
+    {
+      "word": "sacrifice",
+      "offset": 161520,
+      "duration": 1000
+    },
+    {
+      "word": "why'd",
+      "offset": 163282,
+      "duration": 1000
+    },
+    {
+      "word": "you",
+      "offset": 163722,
+      "duration": 1000
+    },
+    {
+      "word": "have",
+      "offset": 164183,
+      "duration": 1000
+    },
+    {
+      "word": "to",
+      "offset": 164583,
+      "duration": 1000
+    },
+    {
+      "word": "chase",
+      "offset": 165003,
+      "duration": 1000
+    },
+    {
+      "word": "the",
+      "offset": 165724,
+      "duration": 1000
+    },
+    {
+      "word": "light?",
+      "offset": 165964,
+      "duration": 1000
+    },
+    {
+      "word": "somewhere",
+      "offset": 166725,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 167866,
+      "duration": 1000
+    },
+    {
+      "word": "can't",
+      "offset": 168106,
+      "duration": 1000
+    },
+    {
+      "word": "go",
+      "offset": 168546,
+      "duration": 1000
+    },
+    {
+      "word": "as",
+      "offset": 169888,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 170128,
+      "duration": 1000
+    },
+    {
+      "word": "walk",
+      "offset": 170268,
+      "duration": 1000
+    },
+    {
+      "word": "this",
+      "offset": 170708,
+      "duration": 1000
+    },
+    {
+      "word": "world",
+      "offset": 171149,
+      "duration": 1000
+    },
+    {
+      "word": "alone",
+      "offset": 171809,
+      "duration": 1000
+    },
+    {
+      "word": "as",
+      "offset": 176874,
+      "duration": 1000
+    },
+    {
+      "word": "i",
+      "offset": 177114,
+      "duration": 1000
+    },
+    {
+      "word": "walk",
+      "offset": 177254,
+      "duration": 1000
+    },
+    {
+      "word": "this",
+      "offset": 177714,
+      "duration": 1000
+    },
+    {
+      "word": "world",
+      "offset": 178115,
+      "duration": 1000
+    },
+    {
+      "word": "alone",
+      "offset": 178595,
+      "duration": 1000
+    }
+  ]
+}
